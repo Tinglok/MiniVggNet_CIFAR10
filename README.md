@@ -80,7 +80,7 @@ you can see the acc-loss graph like this:
 python plot_acc_loss.py
 ```
 
-### Tensorboard implementation
+### Tensorboard tutorial
 
 If you want to see more details in the model, 
 you can use the tensorboard like this:
