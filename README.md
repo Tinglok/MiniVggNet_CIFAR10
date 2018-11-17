@@ -88,6 +88,9 @@ you can use the tensorboard like this:
 ```bash
 tensorboard --logdir=Graph
 ```
+
+Then enter `http://localhost:6006` in your browser.
+
 ## Limitations
 
 - Only single GPU training is implemented.
