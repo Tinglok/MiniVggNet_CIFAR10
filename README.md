@@ -1,4 +1,4 @@
-# MiniVggNet-CIFAR-10
+# VGGNet-CIFAR-10 (mini version)
 Keras implementation of CIFAR-10, val_acc 90+%
 
 
